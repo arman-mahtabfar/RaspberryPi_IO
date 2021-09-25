@@ -1,0 +1,4 @@
+{
+    "BASE_URL": "http://something:3000",
+    "IMAGE_ENDPOINT": "/img"
+}
